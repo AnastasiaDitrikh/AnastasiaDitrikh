@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### My name is Anastasia. I'm a java developer from Stavropol, Russia. And I'm glad to see you in my profile!рџЉ
+#### My name is Anastasia. I'm a java developer from Stavropol, Russia. And I'm glad to see you in my profile!
 
 ## Something about me
 
